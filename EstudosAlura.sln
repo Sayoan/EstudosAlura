@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWebDriver.Basics", "SeleniumWebDriver.Basics\SeleniumWebDriver.Basics.csproj", "{7971C03D-F367-4682-92AB-2AEA7006113B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudosAlura", "SeleniumWebDriver.Basics\EstudosAlura.csproj", "{7971C03D-F367-4682-92AB-2AEA7006113B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
