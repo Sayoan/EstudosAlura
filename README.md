@@ -1,6 +1,6 @@
-# SeleniumWebDriver.Basic
+# EstudosAlura
 
-Projeto criado para estudos nível básico
+Projeto criado para estudos nível básico de Automação
 
 Dificuldade: fácil
 
